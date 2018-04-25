@@ -1,1 +1,4 @@
 Aprendiendo a resolver conflictos en Git
+
+miercoles
+Jueves
