@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Aprendiendo a resolver conflictos en Git
 <<<<<<< HEAD
 enero
@@ -9,5 +10,9 @@ lunes
 martes
 miercoles
 Jueves
+=======
+lunes
+martes
+>>>>>>> 11694ffaf290849c37e15618de1590adf050acc8
 Miercoles
 Jueves
