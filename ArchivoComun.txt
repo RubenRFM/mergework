@@ -1,2 +1,6 @@
 Aprendiendo a resolver conflictos en Git
+<<<<<<< HEAD
 Marzo
+=======
+Abril :v
+>>>>>>> 9726495bfd7c31710fc5ab071b019b1c8a630bf1
