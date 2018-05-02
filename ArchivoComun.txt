@@ -1,5 +1,7 @@
 enero
 febrero
+Mayo
+Junio
 Agosto
 Julio
 lunes
