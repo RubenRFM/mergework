@@ -1,11 +1,20 @@
+<<<<<<< HEAD
+Aprendiendo a resolver conflictos en Git
+
+=======
+enero
+febrero
+>>>>>>> origin/development/working-with-merge
+Agosto
+Julio
 lunes
 martes
 <<<<<<< HEAD
-miercoles
+Miercoles
 Jueves
 viernes
 sabado
 =======
-Miercoles
+miercoles
 Jueves
->>>>>>> development/working-with-merge
+>>>>>>> origin/development/working-with-merge
