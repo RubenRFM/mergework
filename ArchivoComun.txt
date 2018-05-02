@@ -1,7 +1,3 @@
-Agosto
-Julio
-Lunes
-Martes
 enero
 febrero
 Agosto
@@ -9,7 +5,4 @@ Julio
 lunes
 martes
 miercoles
-Jueves
-
-Miercoles
 Jueves
