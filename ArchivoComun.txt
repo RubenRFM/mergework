@@ -1,7 +1,13 @@
 Aprendiendo a resolver conflictos en Git
 
-Agosto
+enero
+febrero
+Marzo
+Abril
 Julio
+Agosto
+Noviembre
+Diciembre
 lunes
 martes
 miercoles
