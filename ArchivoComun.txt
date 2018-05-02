@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 Aprendiendo a resolver conflictos en Git
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> 11e109035a1803347474660a559945af0688e3ef
 enero
 febrero
 Marzo
@@ -11,5 +14,9 @@ Noviembre
 Diciembre
 martes
 miercoles
+<<<<<<< HEAD
 Jueves
 >>>>>>> origin/development/working-whit-marge
+=======
+Jueves
+>>>>>>> 11e109035a1803347474660a559945af0688e3ef
