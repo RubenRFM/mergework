@@ -4,8 +4,9 @@ Aprendiendo a resolver conflictos en Git
 <<<<<<< HEAD
 enero
 febrero
-Agosto
 Julio
+Agosto
+Noviembre
 lunes
 martes
 miercoles
