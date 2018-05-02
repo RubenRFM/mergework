@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Aprendiendo a resolver conflictos en Git
 
 miercoles
+=======
+Miercoles
+>>>>>>> develoment/working-with-merge-tasks/tarea8
 Jueves
