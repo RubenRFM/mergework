@@ -6,3 +6,4 @@ lunes
 martes
 miercoles
 Jueves
+viernes
