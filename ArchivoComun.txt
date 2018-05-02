@@ -1,4 +1,5 @@
 Aprendiendo a resolver conflictos en Git
+<<<<<<< HEAD
 
 Agosto
 Julio
@@ -6,3 +7,7 @@ lunes
 martes
 miercoles
 Jueves
+=======
+enero
+febrero
+>>>>>>> development/working-with-merge-tasks/tarea1
